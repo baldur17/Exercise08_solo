@@ -1,0 +1,22 @@
+{
+  "name": "excercise08_solo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baldur17/Exercise08_solo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baldur17/Exercise08_solo/issues"
+  },
+  "homepage": "https://github.com/baldur17/Exercise08_solo#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
